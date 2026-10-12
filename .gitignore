@@ -28,3 +28,11 @@ desktop.ini
 # Unity crash reports
 sysinfo.txt
 *.stackdump
+
+# Internal design specifications & architecture guidelines (Local only - IP protection)
+CINEMATIC_PROJECT_ARCHITECTURE.md
+CROSS_PROJECT_CINEMATIC_BRIDGE.md
+OSM_CINEMATIC_SPEC.md
+NATIVE_RUNTIME_SPEC.md
+COMMIT_CONVENTION.md
+TPS_GAME_MANAGER_ARCHITECTURE.md
